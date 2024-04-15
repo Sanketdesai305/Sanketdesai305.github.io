@@ -1,13 +1,11 @@
 <h1>Skills and Experience</h1>
 
 <dl>
-<dt>Name:</dt> <dd>Sanket Desai</dd>
-<dt>Location:</dt> <dd>Bangalore</dd>
+<dt>Name:</dt> <p>Sanket Desai</p>
+<dt>Location:</dt> <span>Bangalore</span>
 <dt>Date of Birth:</dt> <dd>30th May 1992</dd>
 <dt>Phone:</dt> <dd>+91 8123359912</dd>
-<dt>LinkedIn:</dt> https://www.linkedin.com/in/sanket-desai-7a966b179/
-  [Link to another page](./[another-page.html](https://www.linkedin.com/in/sanket-desai-7a966b179/)).
-  <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">
+<dt>LinkedIn:</dt> <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">LinkedIn</a>
 </dl>
 
 # Professional Summary:
