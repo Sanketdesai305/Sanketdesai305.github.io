@@ -1,7 +1,7 @@
 <h1>Skills and Experience</h1>
 
 <dl>
-<p>Name: Sanket Desai</p> 
+<p><h3>Name:</h3> Sanket Desai</p> 
 <dt>Location:</dt> <span>Bangalore</span>
 <dt>Date of Birth:</dt> <dd>30th May 1992</dd>
 <dt>Phone:</dt> <dd>+91 8123359912</dd>
