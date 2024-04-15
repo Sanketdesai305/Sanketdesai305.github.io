@@ -5,7 +5,8 @@
 <dt>Location:</dt> <dd>Bangalore</dd>
 <dt>Date of Birth:</dt> <dd>30th May 1992</dd>
 <dt>Phone:</dt> <dd>+91 8123359912</dd>
-<dt>LinkedIn:</dt> <dd>[LinkedIn](https://www.linkedin.com/in/sanket-desai-7a966b179/).</dd>
+<dt>LinkedIn:</dt> https://www.linkedin.com/in/sanket-desai-7a966b179/
+  [Link to another page](./[another-page.html](https://www.linkedin.com/in/sanket-desai-7a966b179/)).
 </dl>
 
 # Professional Summary:
