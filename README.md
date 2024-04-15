@@ -1,4 +1,4 @@
-<h1>{{ page.name }}</h1>
+<h1>Skills and Experience</h1>
 **Curriculum Vitae - Sanket Desai**
 Sanket Desai
 Location: Bangalore
