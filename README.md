@@ -29,6 +29,13 @@ Additional Skills:
 ● Familiarity with Docker and Kubernetes concepts
 ● Basic understanding of Golang and Python
 ● AI - Fundamentals
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 Education:
 Bachelor of Engineering (2015), Cambridge Institute of Technology, Bangalore, India
 Master in IT (Majoring in Business Informatics, 2019), James Cook University, Brisbane,
