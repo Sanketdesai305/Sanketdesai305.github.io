@@ -7,6 +7,7 @@
 <dt>Phone:</dt> <dd>+91 8123359912</dd>
 <dt>LinkedIn:</dt> https://www.linkedin.com/in/sanket-desai-7a966b179/
   [Link to another page](./[another-page.html](https://www.linkedin.com/in/sanket-desai-7a966b179/)).
+  <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">
 </dl>
 
 # Professional Summary:
