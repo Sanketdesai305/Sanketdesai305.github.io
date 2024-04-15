@@ -34,12 +34,11 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 
 # Education:
 
-Bachelor of Engineering (2015), Cambridge Institute of Technology, Bangalore, India
-Master in IT (Majoring in Business Informatics, 2019), James Cook University, Brisbane,
-Australia
-Microsoft Certification: AI 900 - Azure AI Fundamentals
+<p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
+<p><b>Master in IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
+<p><b>Microsoft Certification:</b> AI 900 - Azure AI Fundamentals</p>
 
 # Professional Experience: (1.2 year):
 
-Backend Developer Intern - Vlinder Pty Ltd, Bangalore, India (Dec 2022 - Feb 2023)
-Trainee DevOps Engineer - Canarys Automation, India, Bangalore (Apr 2023 - Present)
+<p><b>Backend Developer Intern</b> - Vlinder Pty Ltd, Bangalore, India (Dec 2022 - Feb 2023)</p>
+<p><b>DevOps Engineer</b> - Canarys Automation, India, Bangalore (Apr 2023 - Present)</p>
