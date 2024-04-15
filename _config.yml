@@ -1,10 +1,9 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: Sanket Desai's Profile
 logo: /assets/img/DP.jpg
 description: Bookmark this to keep an eye on my project updates!
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
 name: Sanket Desai 
 defaults:
   - scope:
