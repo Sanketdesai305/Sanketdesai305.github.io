@@ -5,7 +5,7 @@
 <p>Location: Bangalore</p>
 <p>Date of Birth: 30th May 1992</p>
 <p>Phone: +91 8123359912</p>
-<p>LinkedIn:<a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">LinkedIn</a></p>
+<p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">LinkedIn</a></p>
 </dl>
 
 # Professional Summary:
