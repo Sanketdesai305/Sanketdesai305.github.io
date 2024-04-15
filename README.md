@@ -1,12 +1,10 @@
 <h1>Skills and Experience</h1>
 
-<dl>
-<p>Name: Sanket Desai</p> 
-<p>Location: Bangalore</p>
-<p>Date of Birth: 30th May 1992</p>
-<p>Phone: +91 8123359912</p>
-<p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">LinkedIn</a></p>
-</dl>
+<p><b>Name:</b>  Sanket Desai</p> 
+<p><b>Location:</b>  Bangalore</p>
+<p><b>Date of Birth:</b>  30th May 1992</p>
+<p><b>Phone:</b>  +91 8123359912</p>
+<p><b>LinkedIn:</b>  <a href="https://www.linkedin.com/in/sanket-desai-7a966b179/">LinkedIn</a></p>
 
 # Professional Summary:
 
