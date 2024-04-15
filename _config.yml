@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
 title: Sanket Desai's Profile
 description: Bookmark this to keep an eye on my project updates!
+name: Sanket Desai 
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path }}
-{% endfor %}
+
