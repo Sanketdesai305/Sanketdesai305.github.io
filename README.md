@@ -35,5 +35,5 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 # Education:
 
 <p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
-<p><b>Master in IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
+<p><b>Master of IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
 <p><b>Microsoft Certification:</b> AI 900 - Azure AI Fundamentals</p>
