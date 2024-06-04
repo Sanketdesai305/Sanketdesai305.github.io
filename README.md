@@ -31,6 +31,7 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 *   Familiarity with Docker and Kubernetes concepts
 *   Basic understanding of Golang and Python
 *   AI - Fundamentals
+  
 ###  Key Projects:
 
 *   <p><a href="https://mush-kmoak.mongodbstitch.com/">MERN full-stack e-commerce application</a></p>
