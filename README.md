@@ -18,10 +18,10 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 
 ### Skills:
 
-*   Proficient in building Extensions for Azure DevOps and Custom Actions for GitHub, with 1.2 years of hands-on experience.
+*   Proficient in building Extensions for Azure DevOps and Custom Actions for GitHub, with 1.4 years of hands-on experience.
 *   Skilled in Javascript UI/UX design and MERN stack development.
 *   Basic understanding of Golang and Python programming languages.
-*    Experienced in C# and .NET Core development.
+*    Exposure to C# and .NET Core development/Building custom API.
 *    Familiar with Docker and Kubernetes concepts.
 *    Knowledgeable in Continuous Integration/Continuous Deployment (CI/CD) processes.
 
@@ -31,9 +31,15 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 *   Familiarity with Docker and Kubernetes concepts
 *   Basic understanding of Golang and Python
 *   AI - Fundamentals
+###  Key Projects:
+
+*   <p><a href="https://mush-kmoak.mongodbstitch.com/">MERN full-stack e-commerce application</a></p>
+*   <p><a href="https://marketplace.visualstudio.com/items?itemName=canarysautomationspvtltd.kanbanboards">Kanban Boards Extension for Azure DevOps</a></p>
+*   <p><a href="https://marketplace.visualstudio.com/items?itemName=canarysautomationspvtltd.projectuserlist">Users List Extension for Azure DevOps</a></p>
 
 # Education:
 
 <p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
 <p><b>Master of IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
 <p><b>Microsoft Certification:</b> AI 900 - Azure AI Fundamentals</p>
+
