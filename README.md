@@ -1,5 +1,5 @@
 <h1>Skills and Experience</h1>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e5ef723-909d-4203-940a-5c83f7414d82" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p><b>Name:</b>  Sanket Desai</p> 
 <p><b>Location:</b>  Bangalore</p>
 <p><b>Date of Birth:</b>  30th May 1992</p>
@@ -44,5 +44,4 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 <p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
 <p><b>Master of IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
 <p><b>Microsoft Certification:</b> AI 900 - Azure AI Fundamentals</p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e5ef723-909d-4203-940a-5c83f7414d82" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
