@@ -18,7 +18,7 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 
 ### Skills:
 
-*   Proficient in building Extensions for Azure DevOps and Custom Actions for GitHub, with 1.4 years of hands-on experience.
+*   Proficient in building Extensions for Azure DevOps and Custom Actions for GitHub, with 2 years of hands-on experience.
 *   Skilled in Javascript UI/UX design and MERN stack development.
 *   Basic understanding of Golang and Python programming languages.
 *    Exposure to C# and .NET Core development/Building custom API.
@@ -31,6 +31,7 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 *   Familiarity with Docker and Kubernetes concepts
 *   Basic understanding of Golang and Python
 *   AI - Fundamentals
+*   GitHub Copilot
   
 ###  Key Projects:
 
@@ -43,4 +44,5 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 <p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
 <p><b>Master of IT</b> (Majoring in Business Informatics, 2019), James Cook University, Brisbane, Australia</p>
 <p><b>Microsoft Certification:</b> AI 900 - Azure AI Fundamentals</p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e5ef723-909d-4203-940a-5c83f7414d82" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
