@@ -40,7 +40,7 @@ implement CI/CD pipelines, automating software delivery processes for increased 
 *   <p><a href="https://mush-kmoak.mongodbstitch.com/">MERN full-stack e-commerce application</a></p>
 *   <p><a href="https://marketplace.visualstudio.com/items?itemName=sanketdesai.sanket-mcp-vscode">MCP Server Integration with Copilot</a></p>
 *   <p><a href="https://marketplace.visualstudio.com/items?itemName=canarysautomationspvtltd.projectuserlist">Users List Extension for Azure DevOps</a></p>
-
+*   <p><a href="https://marketplace.visualstudio.com/items?itemName=canarysautomationspvtltd.kanbanboards">Kanban Boards for Azure DevOps</a></p>
 # Education:
 
 <p><b>Bachelor of Engineering</b>-(2015), Cambridge Institute of Technology, Bangalore, India</p>
